@@ -1,0 +1,28 @@
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\bin\Debug\NDPProje.exe.config
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\bin\Debug\NDPProje.exe
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\bin\Debug\NDPProje.pdb
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.csprojAssemblyReference.cache
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.Form1.resources
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.Properties.Resources.resources
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.GenerateResource.cache
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.exe
+C:\Users\Mücahit\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.pdb
+C:\Users\pc\Desktop\NDPProje\NDPProje\bin\Debug\NDPProje.exe.config
+C:\Users\pc\Desktop\NDPProje\NDPProje\bin\Debug\NDPProje.exe
+C:\Users\pc\Desktop\NDPProje\NDPProje\bin\Debug\NDPProje.pdb
+C:\Users\pc\Desktop\NDPProje\NDPProje\obj\Debug\NDPProje.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\NDPProje\NDPProje\obj\Debug\NDPProje.Form1.resources
+C:\Users\pc\Desktop\NDPProje\NDPProje\obj\Debug\NDPProje.Properties.Resources.resources
+C:\Users\pc\Desktop\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\NDPProje\NDPProje\obj\Debug\NDPProje.exe
+C:\Users\pc\Desktop\NDPProje\NDPProje\obj\Debug\NDPProje.pdb
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\bin\Debug\NDPProje.exe.config
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\bin\Debug\NDPProje.exe
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\bin\Debug\NDPProje.pdb
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\obj\Debug\NDPProje.csprojAssemblyReference.cache
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\obj\Debug\NDPProje.Form1.resources
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\obj\Debug\NDPProje.Properties.Resources.resources
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\obj\Debug\NDPProje.csproj.GenerateResource.cache
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\obj\Debug\NDPProje.exe
+C:\Users\Yağız UÇAR\Desktop\NDPProje - Kopya (2)\NDPProje\obj\Debug\NDPProje.pdb
